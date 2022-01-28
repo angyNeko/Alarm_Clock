@@ -14,12 +14,15 @@
         android:layout_marginVertical="25dp"
         android:layout_marginTop="25dp"
         android:layout_marginBottom="25dp"
+
         android:paddingHorizontal="5dp"
+
         app:cardCornerRadius="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+
 
         app:strokeColor="?attr/colorSecondaryVariant"
         app:strokeWidth="2dp"
@@ -48,7 +51,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Schedule Alarm"
+
                 android:textColor="?attr/colorSecondaryVariant"
+
+                android:textColor="?attr/colorOnPrimary"
+
                 android:textAlignment="center"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -71,7 +78,9 @@
                     android:layout_gravity="center"
                     android:layout_weight="1"
                     android:text="Alarm Time"
+
                     android:layout_marginStart="5dp"
+
                     android:textColor="?attr/colorOnPrimary"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
@@ -148,10 +157,12 @@
                 android:checked="false"
                 android:text="Recurring Alarm"
                 android:textColor="?attr/colorOnPrimary"
+
                 android:buttonTint="?attr/colorSecondaryVariant"
                 android:layout_marginTop="25dp"
                 android:layout_marginVertical="20dp"
                 android:layout_marginHorizontal="20dp"
+
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/fragment_createalarm_title" />
 
@@ -166,8 +177,10 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
 
+
                 android:textColor="@color/white"
                 android:backgroundTint="?attr/colorSecondaryVariant"/>
+
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

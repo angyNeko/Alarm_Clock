@@ -2,6 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.AlarmClock" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
+
         <item name="colorPrimary">@color/black</item>
         <item name="colorPrimaryVariant">@color/dark</item>
         <item name="colorOnPrimary">@color/white</item>
@@ -9,6 +10,7 @@
         <item name="colorSecondary">@color/rouge_demon</item>
         <item name="colorSecondaryVariant">@color/maroonish</item>
         <item name="colorOnSecondary">@color/angels_or_demons</item>
+
         <!-- Status bar color. -->
         <item name="colorTertiary">@color/white</item>
 
