@@ -9,12 +9,15 @@
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:theme="@style/Theme.AlarmClock.AppBarOverlay">
+        android:theme="@style/Theme.AlarmClock.AppBarOverlay"
+        app:tabTextColor="?attr/colorPrimary">
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tabs"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            app:tabTextColor="?attr/colorOnPrimary"
+            app:tabIndicatorColor="?attr/colorOnPrimary"/>
     </com.google.android.material.appbar.AppBarLayout>
 
     <androidx.viewpager.widget.ViewPager
@@ -32,6 +35,7 @@
         android:layout_gravity="bottom|end"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
+        app:srcCompat="@android:drawable/ic_lock_idle_alarm"
+        android:backgroundTint="?attr/colorPrimaryVariant" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
