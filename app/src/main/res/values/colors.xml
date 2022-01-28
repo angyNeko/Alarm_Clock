@@ -9,4 +9,13 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="ligh_gray">#C4C4C4</color>
+    <color name="this_red">#DA0406</color>
+
+    <!-- Some Color -->
+    <color name="angels_or_demons">#C1CDAD</color>
+    <color name="demon_tatoo">#D1B857</color>
+    <color name="demons_lair_1">#FF4637</color>
+    <color name="rouge_demon">#CC3743</color>
+    <color name="demons_lair_2">#800015</color>
+
 </resources>
