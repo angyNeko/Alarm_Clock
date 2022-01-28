@@ -4,10 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
-        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/activity_set_alarm.xml" value="0.1814814814814815" />
-        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/alarms_conts.xml" value="0.33" />
+        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/activity_set_alarm.xml" value="0.22" />
+        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/activity_splash.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/alarms_conts.xml" value="0.1" />
         <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/fragment_alarm.xml" value="0.22" />
-        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/fragment_clock.xml" value="0.22" />
+        <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/fragment_clock.xml" value="0.33" />
         <entry key="..\:/Users/Nathan/OneDrive/Desktop/AlarmClock/app/src/main/res/layout/fragment_main.xml" value="0.33" />
       </map>
     </option>

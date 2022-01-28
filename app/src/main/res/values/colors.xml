@@ -9,4 +9,23 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="ligh_gray">#C4C4C4</color>
+    <color name="this_red">#DA0406</color>
+
+    <!-- Some Color -->
+    <color name="angels_or_demons">#C1CDAD</color>
+    <color name="demon_tatoo">#D1B857</color>
+    <color name="demons_lair_1">#FF4637</color>
+    <color name="rouge_demon">#CC3743</color>
+    <color name="demons_lair_2">#800015</color>
+
+    <!-- Tanjiro Color Palette -->
+    <color name="dark">#22201f</color>
+    <color name="hair">#4b2d2d</color>
+    <color name="hair_highlight">#863841</color>
+    <color name="outer_com">#eeeeed</color>
+    <color name="outer">#46b077</color>
+    <color name="outer_var">#0C954B</color>
+
+
+
 </resources>
